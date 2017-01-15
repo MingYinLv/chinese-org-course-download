@@ -1,0 +1,19 @@
+{
+  "name": "chinese-org-course-download",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MingYin Lv",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "babel-core": "^6.21.0",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "bluebird": "^3.4.7",
+    "cheerio": "^0.22.0",
+    "request": "^2.79.0"
+  }
+}
